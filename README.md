@@ -1,5 +1,7 @@
 # ITBootcampProject
 Finalni projekat na kursu za QA testere (manuelno i automatsko testiranje) - Selenium WebDriver + TestNG
+
+
 Zahtevi finalnog projekta:
 Testira se sajt http://automationpractice.com/index.php.
 Za rad sa elementima koji se nalaze na web stranici koristiti Selenium, a za pisanje testova TestNG. Primeniti Page Object Model.
