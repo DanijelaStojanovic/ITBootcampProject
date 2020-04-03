@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bb/Desktop/Lela it boot camp/Biblioteke/Selenium/commons-io-2.6/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bb/Desktop/Lela it boot camp/Biblioteke/Selenium/commons-io-2.6/commons-io-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bb/Desktop/Lela it boot camp/Biblioteke/Selenium/commons-io-2.6/commons-io-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bb/Desktop/Lela it boot camp/Biblioteke/Selenium/commons-io-2.6/commons-io-2.6-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bb/Desktop/Lela it boot camp/Biblioteke/Selenium/commons-io-2.6/commons-io-2.6-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bb/Desktop/Lela it boot camp/Biblioteke/Selenium/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bb/Desktop/Lela it boot camp/Biblioteke/Selenium/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bb/Desktop/Lela it boot camp/Biblioteke/Selenium/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bb/Desktop/Lela it boot camp/Biblioteke/Selenium/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bb/Desktop/Lela it boot camp/Biblioteke/Selenium/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bb/Desktop/Lela it boot camp/Biblioteke/Selenium/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bb/Desktop/Lela it boot camp/Biblioteke/Selenium/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bb/Desktop/Lela it boot camp/Biblioteke/ApachePoi/APACHE POI/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bb/Desktop/Lela it boot camp/Biblioteke/ApachePoi/APACHE POI/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bb/Desktop/Lela it boot camp/Biblioteke/ApachePoi/APACHE POI/poi-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bb/Desktop/Lela it boot camp/Biblioteke/ApachePoi/APACHE POI/poi-excelant-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bb/Desktop/Lela it boot camp/Biblioteke/ApachePoi/APACHE POI/poi-ooxml-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bb/Desktop/Lela it boot camp/Biblioteke/ApachePoi/APACHE POI/poi-ooxml-schemas-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bb/Desktop/Lela it boot camp/Biblioteke/ApachePoi/APACHE POI/poi-scratchpad-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bb/Desktop/Lela it boot camp/Biblioteke/ApachePoi/APACHE POI/resolver.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bb/Desktop/Lela it boot camp/Biblioteke/ApachePoi/APACHE POI/xalan.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bb/Desktop/Lela it boot camp/Biblioteke/ApachePoi/APACHE POI/xbean.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bb/Desktop/Lela it boot camp/Biblioteke/ApachePoi/APACHE POI/xbean_xpath.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bb/Desktop/Lela it boot camp/Biblioteke/ApachePoi/APACHE POI/xbeans.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bb/Desktop/Lela it boot camp/Biblioteke/ApachePoi/APACHE POI/xerces.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bb/Desktop/Lela it boot camp/Biblioteke/ApachePoi/APACHE POI/xml-apis.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bb/Desktop/Lela it boot camp/Biblioteke/ApachePoi/APACHE POI/xmlpublic.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bb/Desktop/Lela it boot camp/Biblioteke/ApachePoi/APACHE POI/xsltc.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
